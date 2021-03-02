@@ -68,7 +68,7 @@
 
 <details>
   <summary>✅ Recent Github Activity</summary>
-  <img align="center" width="200" height="150" src="https://github.com/LUC4Ri0/luc4ri0/blob/master/assests/pandaLaptop.gif?raw=true"><h2>Comming soon..</h2>
+  <img align="center" width="200" height="150" src="https://github.com/LUC4Ri0/luc4ri0/blob/main/assests/pandaLaptop.gif?raw=true"><h2>Comming soon..</h2>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
@@ -86,7 +86,7 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/LUC4Ri0/count.svg" />
   </br>
-      <img align="center" alt="GIF" src="https://github.com/LUC4Ri0/luc4ri0/blob/master/assests/pandaLaptop.gif?raw=true" width="750" height="520" />
+      <img align="center" alt="GIF" src="https://github.com/LUC4Ri0/luc4ri0/blob/main/assests/pandaLaptop.gif?raw=true" width="750" height="520" />
 </p>
 
 [github]: https://github.com/LUC4Rio
