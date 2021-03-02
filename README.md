@@ -86,7 +86,7 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/LUC4Ri0/count.svg" />
   </br>
-      <img align="center" alt="GIF" src="https://github.com/LUC4Ri0/luc4ri0/blob/main/assests/pandaFight.gif?raw=true" width="750" height="520" />
+      <img align="center" alt="GIF" src="https://github.com/LUC4Ri0/luc4ri0/blob/main/assests/Dog-with-Human-Hands-Eating-Breakfast.gif?raw=true" width="750" height="520" />
 </p>
 
 [github]: https://github.com/LUC4Rio
