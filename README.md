@@ -7,11 +7,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 📈 I'm a Competitive Programmer with intermediate level of Data Structure knowledge!
-- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
+- 💻 Professionally i'm a Full Stack Developer at Stratbeans Consulting PVT. LTD.
+- 📈 Worthwhile i'm a Competitive Programmer with intermediate level of Data Structure knowledge!
+- 💻 Educationally i'm a 4th year computer science undergrad at Lovely Professional University.
 - 🔭 Currently exploring web development.
 - 🌱 I’m currently learning to learn.
-- 🥅 API's are fun, i like to play with twitter,youtube Apis.
+- 🥅 API's are fun, i like to play with codeforces,youtube Apis.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
 ---
