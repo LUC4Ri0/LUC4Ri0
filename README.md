@@ -7,12 +7,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 💻 Professionally i'm a Software Developer at PocketFM PVT. LTD.
+- 💻 Professionally i'm a Software Engineer at PocketFM PVT. LTD.
 - 📈 Worthwhile i'm a Competitive Programmer with intermediate level of Data Structure knowledge!
-- 💻 Educationally i'm a 4th year computer science undergrad at Lovely Professional University.
-- 🔭 Currently exploring web development.
+- 💻 Educationally i'm a computer science graduate from Lovely Professional University.
+- 🔭 Currently working on backend development at pocketfm.
 - 🌱 I’m currently learning to learn.
-- 🥅 API's are fun, i like to play with codeforces,youtube Apis.
+- 🥅 API's are fun, i like to play with codeforces, youtube Apis.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
 ---
